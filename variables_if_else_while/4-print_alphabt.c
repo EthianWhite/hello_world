@@ -1,5 +1,5 @@
 
-0;276;0c#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Start point
