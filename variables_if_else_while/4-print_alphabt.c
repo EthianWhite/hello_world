@@ -1,4 +1,5 @@
-#include <stdio.h>
+
+0;276;0c#include <stdio.h>
 
 /**
  * main - Start point
@@ -14,6 +15,6 @@ for (i = 'a'; i <= 'z'; i++)
 if (i != 'e' && i != 'q')
 putchar(i);
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
