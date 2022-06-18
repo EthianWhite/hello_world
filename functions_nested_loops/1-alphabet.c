@@ -3,7 +3,7 @@
 /**
  * print_alphabet - Start Point
  *
- * Return: Remain 0
+ * Return: Remain in void
  */
 void print_alphabet(void)
 {
@@ -14,5 +14,4 @@ for (x = 'a'; x <= 'z'; x++)
 _putchar(x);
 }
 _putchar('\n');
-return (0);
 }
